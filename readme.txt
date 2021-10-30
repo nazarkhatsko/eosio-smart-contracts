@@ -1,3 +1,1 @@
-Smart Contract (EOSIO)
-
-Simple example "hi" smart contract
+Smart Contracts (EOSIO)
